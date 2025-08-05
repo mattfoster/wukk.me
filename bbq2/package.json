@@ -1,0 +1,13 @@
+{
+  "name": "bbq2",
+  "version": "1.0.0",
+  "description": "WukktaQ2 - Responsive web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["responsive", "web", "mobile"],
+  "author": "",
+  "license": "ISC"
+}
